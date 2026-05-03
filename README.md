@@ -1,66 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0a2e,60:1a0533,100:0d1b2a&height=280&section=header&text=SWARAJ%20GUPTA&fontSize=60&fontColor=00ffff&fontAlignY=40&desc=%E2%96%B6%20%20LOADING%20PLAYER%20ONE...&descAlignY=58&descSize=18&descColor=7df9ff&animation=twinkling&stroke=00ffff&strokeWidth=2" width="100%"/>
+<!-- NEON GAMING BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a0015,50:00001a,75:0d0030,100:000000&height=320&section=header&text=SWARAJ%20GUPTA&fontSize=72&fontColor=00ffff&fontAlignY=42&fontAlign=50&desc=◈%20SENIOR%20JAVA%20ENGINEER%20◈%20DISTRIBUTED%20SYSTEMS%20◈%20AI%20INFRASTRUCTURE%20◈&descSize=13&descColor=bf5fff&descAlignY=60&descAlign=50&animation=twinkling&stroke=7700ff&strokeWidth=3&reversal=false"/>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  ⚔️  DEVELOPER CARD — SWARAJ GUPTA                        LVL 5    ║
-║  ════════════════════════════════════════════════════════════════════║
-║  CLASS   : Senior Java Engineer · Distributed Systems Mage          ║
-║  GUILD   : Cisco  ·  EXP: 5 Years  ·  RANK: SDE-II                 ║
-║  REGION  : Bengaluru, India  ·  STATUS: 🟢 Open to Quests          ║
-║  ════════════════════════════════════════════════════════════════════║
-║  HP  ████████████████████  100%   [ Never missed a deadline ]       ║
-║  MP  ███████████████████░   95%   [ AI / RAG / Kafka mastery ]      ║
-║  XP  ██████████████████░░   90%   [ 400+ DSA problems solved ]      ║
-║  ────────────────────────────────────────────────────────────────── ║
-║  ACTIVE QUESTS:  🔨 Building Loom  ·  🤖 ARIA AI OS  ·  📨 Kafka  ║
-║  SPECIAL SKILLS: Zero-Downtime Migrations · RAG Pipelines · MCP     ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=750&lines=🎮+INITIALIZING+BACKEND+SYSTEMS...;☕+Java+21+%7C+Spring+Boot+3.5+%7C+Kafka+%7C+Redis+%7C+AWS;🚀+5+Years+%7C+Enterprise+Distributed+Systems;⚡+40-50%25+Kafka+Throughput+Boost+Unlocked;🧠+RAG+Platform+%2B65%25+Precision+Achievement;🏆+5+Company+Awards+Collected;💡+Currently+Building%3A+Loom+%26+ARIA+AI+OS)](https://git.io/typing-svg)
+<!-- GLITCH DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7700ff,50:00ffff,100:ff00aa&height=3&section=header"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/▶_LinkedIn-swarajgupta14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swarajgupta14)
-[![Email](https://img.shields.io/badge/▶_Email-swaraj14041@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaraj14041@gmail.com)
-[![LeetCode](https://img.shields.io/badge/⚔️_LeetCode-400%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Location](https://img.shields.io/badge/📍_Bengaluru-India-00b894?style=for-the-badge)](https://maps.google.com/?q=Bengaluru)
+<!-- ANIMATED TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=15&duration=2200&pause=700&color=00FFFF&background=00000000&center=true&vCenter=true&width=780&lines=⚡+PLAYER+ONE+HAS+ENTERED+THE+GAME;☕+WEAPON%3A+Java+21+%7C+Spring+Boot+3.5+%7C+Kafka+%7C+Redis;🏰+GUILD%3A+Cisco+%7C+RANK%3A+SDE-II+%7C+EXP%3A+5+YEARS;🎯+ACHIEVEMENT%3A+40-50%25+Kafka+Throughput+Boost+UNLOCKED;🧠+ACHIEVEMENT%3A+RAG+Platform+%2B65%25+Precision+UNLOCKED;🏆+ACHIEVEMENT%3A+5+Company+Awards+COLLECTED;🚀+SIDE+QUEST%3A+Building+Loom+%26+ARIA+AI+OS;🟢+STATUS%3A+OPEN+TO+NEW+QUESTS)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=swarajgupta&color=00ffff&style=for-the-badge&label=ADVENTURERS+VISITED)
+<!-- DEVELOPER RPG CARD -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0015,100:0a0015&height=2"/>
+
+```
+ ██████████████████████████████████████████████████████████████████████████
+ █                                                                        █
+ █   ⚔  DEVELOPER CARD                                        [ LVL 5 ]  █
+ █  ──────────────────────────────────────────────────────────────────── █
+ █   NAME    ░░  SWARAJ GUPTA                                            █
+ █   CLASS   ░░  Senior Java Engineer  ·  Distributed Systems Mage       █
+ █   GUILD   ░░  Cisco  ·  prev. Capgemini                               █
+ █   REGION  ░░  Bengaluru, India                                         █
+ █   STATUS  ░░  🟢  OPEN TO QUESTS                                      █
+ █  ──────────────────────────────────────────────────────────────────── █
+ █   STATS                                                                █
+ █                                                                        █
+ █   ❤  RELIABILITY  ████████████████████  100 / 100                     █
+ █      Never missed a sprint · Zero-downtime migrations                  █
+ █                                                                        █
+ █   ✦  AI  POWER    ███████████████████░   95 / 100                     █
+ █      RAG Pipelines · MCP Servers · Ollama · LangSmith                 █
+ █                                                                        █
+ █   ⚡  THROUGHPUT  ██████████████████░░   90 / 100                     █
+ █      Kafka · Redis · Elasticsearch · Spark                             █
+ █                                                                        █
+ █   🧩  DSA GRIND   ████████████████░░░░   80 / 100                     █
+ █      400+ LeetCode / GFG problems solved                               █
+ █  ──────────────────────────────────────────────────────────────────── █
+ █   ACTIVE QUESTS   🔨 Loom  ·  🤖 ARIA AI OS  ·  📨 Kafka Mastery     █
+ █   SPECIAL MOVES   Zero-Downtime Migrations  ·  RAG Pipelines  · MCP   █
+ █                                                                        █
+ ██████████████████████████████████████████████████████████████████████████
+```
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-swarajgupta14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swarajgupta14)
+[![Email](https://img.shields.io/badge/◈_EMAIL-swaraj14041@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaraj14041@gmail.com)
+[![LeetCode](https://img.shields.io/badge/⚔_LEETCODE-400%2B_SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![Location](https://img.shields.io/badge/◈_BENGALURU-INDIA-7700ff?style=for-the-badge&logoColor=white)](https://maps.google.com/?q=Bengaluru)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=swarajgupta&color=bf5fff&style=for-the-badge&label=ADVENTURERS+VISITED)
+
+<!-- NEON LINE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7700ff,50:00ffff,100:ff00aa&height=3"/>
 
 </div>
 
 ---
 
-## ⚡ Player Stats
+## ⚡ Player Profile
+
+<div align="center">
 
 ```java
-🎮 INITIALIZING PLAYER PROFILE...
+// ══════════════════════════════════════════════════════════════
+//  🎮  SWARAJ.java  —  LOADING PROFILE...
+// ══════════════════════════════════════════════════════════════
 
-┌─────────────────────────────────────────────────────────┐
-│                  ★  SWARAJ GUPTA  ★                     │
-│              [ SOFTWARE ENGINEER II ]                    │
-├─────────────────────────────────────────────────────────┤
-│  🏰 CURRENT GUILD   →  Cisco, Bengaluru                 │
-│  ⚔️  MAIN WEAPON    →  Java 21 + Spring Boot 3.5        │
-│  🛡️  SPECIALIZATION →  Distributed Systems & AI Infra  │
-│  🔭 ACTIVE QUEST   →  Building Loom (media platform)   │
-│  📖 SKILL TREE     →  AI Agents · LLD · DSA Patterns   │
-│  🗺️  LOOKING FOR   →  Founding Eng · SDE2/SDE3 Roles   │
-├─────────────────────────────────────────────────────────┤
-│  LORE:                                                   │
-│  "5 years shipping enterprise-grade distributed         │
-│   systems. Consistently delivering measurable impact    │
-│   at scale. Built a personal AI OS before Microsoft     │
-│   Recall was even announced." 👀                        │
-└─────────────────────────────────────────────────────────┘
+public class SwarajGupta extends SeniorEngineer implements AIBuilder {
 
-⚡ STATUS: READY FOR NEW QUEST
+    @Stat("GUILD")      String company   = "Cisco  [ SDE-II ]";
+    @Stat("WEAPON")     String mainStack = "Java 21 · Spring Boot 3.5 · Kafka · Redis";
+    @Stat("SPEC")       String domain    = "Distributed Systems · AI Infrastructure";
+    @Stat("QUEST")      String building  = "Loom (media platform) · ARIA AI OS";
+    @Stat("SKILL_TREE") String learning  = "AI Agents · LLD Patterns · DSA";
+    @Stat("OPEN_TO")    String openTo    = "Founding Engineer · SDE2 / SDE3 Roles";
+
+    @Override
+    public String lore() {
+        return """
+            5 years shipping enterprise-grade distributed systems.
+            Consistently delivering measurable impact at scale.
+            Built a personal AI OS before Microsoft Recall existed. 👀
+               """;
+    }
+}
+
+// ► STATUS : READY FOR NEW QUEST  ✔
+// ══════════════════════════════════════════════════════════════
 ```
+
+</div>
 
 ---
 
@@ -247,15 +285,21 @@ I build at the intersection of **enterprise engineering depth** and **indie hack
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7700ff,50:00ffff,100:ff00aa&height=3"/>
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║          🎮  THANKS FOR VISITING MY PROFILE  🎮             ║
-║   ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄   ║
-║   Open to new quests — Founding Eng & SDE2/SDE3 roles        ║
-║   swaraj14041@gmail.com  ·  linkedin.com/in/swarajgupta14    ║
-╚══════════════════════════════════════════════════════════════╝
+ ██████████████████████████████████████████████████████████████████████████
+ █                                                                        █
+ █              🎮   THANKS FOR VISITING MY PROFILE   🎮                 █
+ █                                                                        █
+ █   ◈  Open to new quests — Founding Eng & SDE2/SDE3 roles              █
+ █   ◈  swaraj14041@gmail.com  ·  linkedin.com/in/swarajgupta14          █
+ █                                                                        █
+ █              ▶▶   PRESS START TO COLLABORATE   ◀◀                     █
+ █                                                                        █
+ ██████████████████████████████████████████████████████████████████████████
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1b2a,50:1a0533,100:0d0221&height=120&section=footer&text=PRESS+START+TO+COLLABORATE&fontSize=18&fontColor=00ffff&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a0015,50:00001a,75:0d0030,100:000000&height=140&section=footer&text=PRESS%20START%20TO%20COLLABORATE&fontSize=22&fontColor=00ffff&fontAlignY=55&animation=twinkling&stroke=7700ff&strokeWidth=2" width="100%"/>
 
 </div>

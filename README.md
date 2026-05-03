@@ -1,60 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Swaraj%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Java%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descAlignY=58&descSize=16&descColor=a8b2d8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0a2e,60:1a0533,100:0d1b2a&height=280&section=header&text=SWARAJ%20GUPTA&fontSize=60&fontColor=00ffff&fontAlignY=40&desc=%E2%96%B6%20%20LOADING%20PLAYER%20ONE...&descAlignY=58&descSize=18&descColor=7df9ff&animation=twinkling&stroke=00ffff&strokeWidth=2" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&multiline=false&width=700&lines=5+years+building+enterprise+distributed+systems;Java+21+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Redis+%C2%B7+AWS;Currently+building+Loom+%E2%80%94+media+platform+for+creators;Open+to+Founding+Engineer+%26+SDE2%2FSDE3+roles)](https://git.io/typing-svg)
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  ⚔️  DEVELOPER CARD — SWARAJ GUPTA                        LVL 5    ║
+║  ════════════════════════════════════════════════════════════════════║
+║  CLASS   : Senior Java Engineer · Distributed Systems Mage          ║
+║  GUILD   : Cisco  ·  EXP: 5 Years  ·  RANK: SDE-II                 ║
+║  REGION  : Bengaluru, India  ·  STATUS: 🟢 Open to Quests          ║
+║  ════════════════════════════════════════════════════════════════════║
+║  HP  ████████████████████  100%   [ Never missed a deadline ]       ║
+║  MP  ███████████████████░   95%   [ AI / RAG / Kafka mastery ]      ║
+║  XP  ██████████████████░░   90%   [ 400+ DSA problems solved ]      ║
+║  ────────────────────────────────────────────────────────────────── ║
+║  ACTIVE QUESTS:  🔨 Building Loom  ·  🤖 ARIA AI OS  ·  📨 Kafka  ║
+║  SPECIAL SKILLS: Zero-Downtime Migrations · RAG Pipelines · MCP     ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=750&lines=🎮+INITIALIZING+BACKEND+SYSTEMS...;☕+Java+21+%7C+Spring+Boot+3.5+%7C+Kafka+%7C+Redis+%7C+AWS;🚀+5+Years+%7C+Enterprise+Distributed+Systems;⚡+40-50%25+Kafka+Throughput+Boost+Unlocked;🧠+RAG+Platform+%2B65%25+Precision+Achievement;🏆+5+Company+Awards+Collected;💡+Currently+Building%3A+Loom+%26+ARIA+AI+OS)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-swarajgupta14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swarajgupta14)
-[![Email](https://img.shields.io/badge/Email-swaraj14041@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaraj14041@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Location](https://img.shields.io/badge/📍_Bengaluru-India-success?style=for-the-badge)](https://maps.google.com/?q=Bengaluru)
+[![LinkedIn](https://img.shields.io/badge/▶_LinkedIn-swarajgupta14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swarajgupta14)
+[![Email](https://img.shields.io/badge/▶_Email-swaraj14041@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaraj14041@gmail.com)
+[![LeetCode](https://img.shields.io/badge/⚔️_LeetCode-400%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![Location](https://img.shields.io/badge/📍_Bengaluru-India-00b894?style=for-the-badge)](https://maps.google.com/?q=Bengaluru)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=swarajgupta&color=7DF9FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=swarajgupta&color=00ffff&style=for-the-badge&label=ADVENTURERS+VISITED)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## ⚡ Player Stats
 
 ```java
-public class SwarajGupta extends Engineer {
+🎮 INITIALIZING PLAYER PROFILE...
 
-    private final String role     = "Software Engineer II @ Cisco";
-    private final int    years    = 5;
-    private final String building = "Loom — media-first platform for content creators";
-    private final String learning = "AI Agent Architecture · LLD patterns · DSA";
-    private final String openTo   = "Founding Engineer | SDE2/SDE3 Backend Roles";
+┌─────────────────────────────────────────────────────────┐
+│                  ★  SWARAJ GUPTA  ★                     │
+│              [ SOFTWARE ENGINEER II ]                    │
+├─────────────────────────────────────────────────────────┤
+│  🏰 CURRENT GUILD   →  Cisco, Bengaluru                 │
+│  ⚔️  MAIN WEAPON    →  Java 21 + Spring Boot 3.5        │
+│  🛡️  SPECIALIZATION →  Distributed Systems & AI Infra  │
+│  🔭 ACTIVE QUEST   →  Building Loom (media platform)   │
+│  📖 SKILL TREE     →  AI Agents · LLD · DSA Patterns   │
+│  🗺️  LOOKING FOR   →  Founding Eng · SDE2/SDE3 Roles   │
+├─────────────────────────────────────────────────────────┤
+│  LORE:                                                   │
+│  "5 years shipping enterprise-grade distributed         │
+│   systems. Consistently delivering measurable impact    │
+│   at scale. Built a personal AI OS before Microsoft     │
+│   Recall was even announced." 👀                        │
+└─────────────────────────────────────────────────────────┘
 
-    @Override
-    public String toString() {
-        return "5 years shipping enterprise-grade distributed systems at Cisco & Capgemini. " +
-               "Java 21, Spring Boot, Kafka, Redis — consistently delivering measurable " +
-               "impact at scale. Currently hacking on AI infrastructure and indie products.";
-    }
-}
+⚡ STATUS: READY FOR NEW QUEST
 ```
 
 ---
 
-## 🏆 Impact at a Glance
+## 🎯 Achievements Unlocked
 
 <div align="center">
 
-| Metric | Result |
+| Achievement | Unlocked |
 |:---|:---|
-| ⏱️ Kafka job recovery time | **2–3 hrs → < 5 min** (27+ production jobs) |
-| 📈 Kafka throughput boost | **40–50%** via multi-partition keying |
-| 🔍 Data integrity detection | **73% faster** across 12+ pipelines |
-| 🧠 RAG platform precision | **+65%** (FastAPI + Ollama) |
-| ⚡ Redis caching latency | **95% reduction**, 99% cache hit rate |
-| 💰 Revenue impact | **15% uplift** via self-service Trade-In platform |
-| 🚀 Team productivity | **25–35% lift** via GitHub Copilot rollout |
-| 🔐 Security | **100%** hardcoded credentials eliminated |
+| ⏱️ **SPEEDRUN** — Kafka job recovery | **2–3 hrs → < 5 min** (27+ production jobs) |
+| 📈 **OVERCLOCK** — Kafka throughput | **+40–50%** via multi-partition keying |
+| 🔍 **EAGLE EYE** — Data integrity detection | **73% faster** across 12+ pipelines |
+| 🧠 **AI WHISPERER** — RAG platform precision | **+65%** (FastAPI + Ollama) |
+| ⚡ **INSTANT** — Redis caching latency | **95% reduction**, 99% cache hit rate |
+| 💰 **MONEY MAKER** — Revenue impact | **+15% uplift** via Trade-In platform |
+| 🚀 **MULTIPLIER** — Team productivity | **+25–35%** via GitHub Copilot rollout |
+| 🔐 **LOCKSMITH** — Security hardening | **100%** hardcoded credentials eliminated |
 
 </div>
 
@@ -127,7 +150,6 @@ public class SwarajGupta extends Engineer {
 - 🤖 Built **RAG Q&A platform** (FastAPI + Ollama) with 65% precision gain; shipped MCP server with 8 LLM-callable tools
 - 🔐 **Conjur secrets integration** — eliminated 100% of hardcoded credentials across 3 environments
 - 🚀 Led GitHub Copilot rollout — **25–35% productivity lift** team-wide, mentored 5+ engineers
-- 🏆 Awards: **Getting to Finish Line ×2**, **Think Really Big**, **Play to Win ×3**, **Drive Durable Growth**
 
 </details>
 
@@ -143,7 +165,6 @@ public class SwarajGupta extends Engineer {
 - 💰 Self-service **Trade-In Platform** with event-driven coupon support — **15% revenue uplift**
 - 🔄 Spring Batch replaced manual insurance file processing; Spring Retry **eliminated all manual reruns**
 - 🛡️ Log4j patch: Spring Boot v2.3.3 → v2.7.18, full dependency audit, **zero regression**
-- 🏆 Award: **Xtra Mile** — Capgemini 2023
 
 </details>
 
@@ -161,6 +182,28 @@ public class SwarajGupta extends Engineer {
 | ⚙️ **Scaffold Generator** — POC scaffolds via Claude API | FastAPI · Claude API | ✅ Shipped |
 
 </div>
+
+---
+
+## 🏅 Awards & Recognition
+
+<div align="center">
+
+![Getting to Finish Line](https://img.shields.io/badge/🏁_Getting_to_Finish_Line_×2-Cisco_2025-0052CC?style=for-the-badge)
+![Think Really Big](https://img.shields.io/badge/💡_Think_Really_Big-Cisco_2024-0052CC?style=for-the-badge)
+![Play to Win](https://img.shields.io/badge/🎯_Play_to_Win_×3-Cisco_2024--2026-0052CC?style=for-the-badge)
+![Drive Durable Growth](https://img.shields.io/badge/📈_Drive_Durable_Growth-Cisco_2024-0052CC?style=for-the-badge)
+![Xtra Mile](https://img.shields.io/badge/🚀_Xtra_Mile-Capgemini_2023-FF6B00?style=for-the-badge)
+
+</div>
+
+| Award | Company | Year |
+|:---|:---|:---|
+| 🏁 **Getting to Finish Line** ×2 | Cisco | 2025 |
+| 💡 **Think Really Big** | Cisco | 2024 |
+| 🎯 **Play to Win** ×3 | Cisco | 2024, 2025, 2026 |
+| 📈 **Drive Durable Growth** | Cisco | 2024 |
+| 🚀 **Xtra Mile** | Capgemini | 2023 |
 
 ---
 
@@ -204,6 +247,15 @@ I build at the intersection of **enterprise engineering depth** and **indie hack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Open%20to%20opportunities%20%E2%80%94%20let%27s%20build%20something%20great&fontSize=14&fontColor=a8b2d8&fontAlignY=65&animation=fadeIn" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════════╗
+║          🎮  THANKS FOR VISITING MY PROFILE  🎮             ║
+║   ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄   ║
+║   Open to new quests — Founding Eng & SDE2/SDE3 roles        ║
+║   swaraj14041@gmail.com  ·  linkedin.com/in/swarajgupta14    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1b2a,50:1a0533,100:0d0221&height=120&section=footer&text=PRESS+START+TO+COLLABORATE&fontSize=18&fontColor=00ffff&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
